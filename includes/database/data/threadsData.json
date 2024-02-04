@@ -1,0 +1,26 @@
+{
+    "24528196516828235": {
+        "threadInfo": {
+            "threadID": "24528196516828235",
+            "threadName": null,
+            "emoji": null,
+            "adminIDs": [
+                {
+                    "id": "100080212481460"
+                }
+            ],
+            "participantIDs": [
+                "61555747004259",
+                "100043432491146",
+                "100080212481460"
+            ],
+            "isGroup": true
+        },
+        "createTime": {
+            "timestamp": 1707026352581
+        },
+        "data": {
+            "timestamp": 1707026352581
+        }
+    }
+}
